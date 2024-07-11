@@ -1,1 +1,3 @@
-# lanche1
+# Base Montar Lanche
+
+Repositório base para projeto em Vue
